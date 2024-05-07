@@ -1,0 +1,15 @@
+Diego,Rincon,drincon553,diego123
+Diego,Rincon,drincon553,diego123
+Ingrese su nombre,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Dsd,dsd,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Ingrese su nombre,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Ingrese su nombre,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Diegg,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Derg,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Ingrese su nombre,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Diego,Rincon,diego333,diego123
+Diego,Rincon,derg45,derg45
+Ingrese su nombre,Ingrese su primer apellido,Ingrese su nuevo usuario,Ingrese su nueva contraseña
+Diego,Rincon,Frog780,2323
+Frt,Dr,sed22,sed22
+Diego,Rincon,frog33,frog33
